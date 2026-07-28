@@ -19,7 +19,7 @@ Glosario y modelo de dominio del proyecto de nutrición de Ismael.
 
 ## Glosario
 
-- **Desayuno / Comida / Merienda / Cena** — las cuatro tomas fijas del día; la merienda actúa como anti-hambre nocturna.
+- **Desayuno / Comida / Merienda / Cena** — las tomas del día. El desayuno nunca se salta (pan de pueblo + queso curado + pavo, huevos, u overnight oats). La merienda es únicamente **~100 g de dátiles 45–60 min antes de BJJ**; los días sin BJJ no hay merienda. Anti-hambre nocturna: queso fresco batido como comodín.
 - **Día BJJ** 🥋 — día con clase de BJJ (actualmente L–J). Objetivo **~1.850–1.900 kcal**, con el extra (+150–200 kcal sobre la base) en carbohidratos. Las clases de iniciación NO cuentan como día intenso pleno.
 - **Día gym** 🏋️ — sesión de fuerza. Mismo tier calórico que día BJJ.
 - **Día intenso** — sparring, competición o cardio fuerte → **~1.900–2.000 kcal**. Reservado; no aplica a clases de iniciación.
