@@ -28,6 +28,16 @@ Glosario y modelo de dominio del proyecto de nutrición de Ismael.
 - **Día normal** — sin actividad relevante → **~1.700 kcal**.
 - **Estimación alta (~)** — toda comida fuera o incierta se estima al alza: menú del día ~800 kcal, restaurante ~900 kcal, buffet sushi ~1.200 kcal.
 
+## Suplementación (desde 2026-07-28)
+
+| Suplemento | Timing recomendado |
+|---|---|
+| Colágeno | Junto con vitamina C (zumo de naranja natural) — favorece la síntesis |
+| Magnesio | Con la cena — ayuda a la recuperación tras BJJ/gym |
+| Multivitamínico | Con una comida que lleve algo de grasa (liposolubles) |
+| Creatina | Con agua, cualquier hora, sin timing crítico. Más hidratación los días de BJJ/gym |
+| Omega 3 | ⚠️ En tensión directa con el enfoque Ray Peat — Peat es crítico con los PUFA (incluido el omega 3) por su tendencia a la peroxidación lipídica. Decisión del usuario, no hay indicación de retirarlo |
+
 ## Reglas transversales
 
 - **Vesícula**: ninguna comida > ~25–30 g de grasa; nunca dos comidas grasas seguidas el mismo día. Entrecot siempre retirando la grasa visible y como única comida grasa del día.
