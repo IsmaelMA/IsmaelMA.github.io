@@ -16,6 +16,7 @@ Glosario y modelo de dominio del proyecto de nutrición de Ismael.
 | Restricción | **Sin vesícula** — máx ~25–30 g de grasa por comida, nunca dos comidas grasas seguidas el mismo día |
 | Enfoque | Dieta mediterránea + principios Ray Peat (pro-metabólico) |
 | Proteína objetivo | 1,6 g/kg ≈ **175 g/día** |
+| Suplementación | Creatina (iniciada ago-2026) |
 
 ## Glosario
 
