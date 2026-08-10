@@ -13,10 +13,11 @@ Glosario y modelo de dominio del proyecto de nutrición de Ismael.
 | Objetivo | 103,0 kg |
 | Trabajo | Desarrollador (sedentario) |
 | Deporte | BJJ 4 días/semana (L–J, empezó 27-jul-2026) + gym en introducción progresiva. Antes: baloncesto desde los 12 años |
+| Despensa base | Suele tener patata y cebolla en cantidad — no forman parte habitual de la lista de la compra salvo aviso |
 | Restricción | **Sin vesícula** — máx ~25–30 g de grasa por comida, nunca dos comidas grasas seguidas el mismo día |
 | Enfoque | Dieta mediterránea + principios Ray Peat (pro-metabólico) |
 | Proteína objetivo | 1,6 g/kg ≈ **175 g/día** |
-| Suplementación | Creatina (iniciada ago-2026) |
+| Suplementación | Colágeno, magnesio, multivitamínico, creatina, omega 3 (desde 2026-07-28) — ver tabla de timing más abajo |
 
 ## Glosario
 
