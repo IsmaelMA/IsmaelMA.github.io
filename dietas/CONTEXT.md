@@ -9,15 +9,15 @@ Glosario y modelo de dominio del proyecto de nutrición de Ismael.
 | Nombre | Ismael |
 | Edad | 29 años |
 | Altura | 1,96 m |
-| Peso actual | ~109 kg (provisional, 2026-07-28 — pendiente pesada en ayunas) |
+| Peso actual | ~109 kg (provisional, ~2026-08-10 — pendiente pesada en ayunas) |
 | Objetivo | 103,0 kg |
 | Trabajo | Desarrollador (sedentario) |
-| Deporte | BJJ 4 días/semana (L–J, empezó 27-jul-2026) + gym en introducción progresiva. Antes: baloncesto desde los 12 años |
+| Deporte | BJJ 4 días/semana (L–J, empezó el lunes 10-ago-2026) + gym en introducción progresiva. Antes: baloncesto desde los 12 años |
 | Despensa base | Suele tener patata y cebolla en cantidad — no forman parte habitual de la lista de la compra salvo aviso |
 | Restricción | **Sin vesícula** — máx ~25–30 g de grasa por comida, nunca dos comidas grasas seguidas el mismo día |
 | Enfoque | Dieta mediterránea + principios Ray Peat (pro-metabólico) |
 | Proteína objetivo | 1,6 g/kg ≈ **175 g/día** |
-| Suplementación | Colágeno, magnesio, multivitamínico, creatina, omega 3 (desde 2026-07-28) — ver tabla de timing más abajo |
+| Suplementación | Colágeno, magnesio, multivitamínico, creatina, omega 3 (desde ~10-ago-2026) — ver tabla de timing más abajo |
 
 ## Glosario
 
@@ -29,7 +29,7 @@ Glosario y modelo de dominio del proyecto de nutrición de Ismael.
 - **Día normal** — sin actividad relevante → **~1.700 kcal**.
 - **Estimación alta (~)** — toda comida fuera o incierta se estima al alza: menú del día ~800 kcal, restaurante ~900 kcal, buffet sushi ~1.200 kcal.
 
-## Suplementación (desde 2026-07-28)
+## Suplementación (desde ~10-ago-2026)
 
 | Suplemento | Timing recomendado |
 |---|---|
