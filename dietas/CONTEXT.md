@@ -9,7 +9,7 @@ Glosario y modelo de dominio del proyecto de nutrición de Ismael.
 | Nombre | Ismael |
 | Edad | 29 años |
 | Altura | 1,96 m |
-| Peso actual | ~109 kg (provisional, ~2026-08-10 — pendiente pesada en ayunas) |
+| Peso actual | 107,7 kg (2026-08-11, en ayunas ✔️) |
 | Objetivo | 103,0 kg |
 | Trabajo | Desarrollador (sedentario) |
 | Deporte | BJJ 4 días/semana (L–J, empezó el lunes 10-ago-2026) + gym en introducción progresiva. Antes: baloncesto desde los 12 años |
